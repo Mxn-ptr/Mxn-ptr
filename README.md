@@ -21,3 +21,7 @@
  <p align="center">
 <img width="290" height="200"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mxn-ptr&show_icons=true&bg_color=0C1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&layout=compact&langs_count=8">
 </p>
+
+## **<div align="center">Latest Medium Stories</div>**
+<!-- MEDIUM-STORY-LIST:START -->
+<!-- MEDIUM-STORY-LIST:END -->
