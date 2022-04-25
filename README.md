@@ -24,9 +24,9 @@
 
 ## **<div align="center">Latest Medium Stories</div>**
 <!-- MEDIUM-STORY-LIST:START -->
+- [What is IoT?](https://medium.com/@maxence0/what-is-iot-2732828a7d2a?source=rss-c9aa093dee4c------2)
 - [Recursive functions](https://medium.com/@maxence0/recursive-functions-296bdc02bb75?source=rss-c9aa093dee4c------2)
 - [Mutable vs Immutable Objects in Python](https://medium.com/@maxence0/mutable-vs-immutable-objects-in-python-89812783dcf9?source=rss-c9aa093dee4c------2)
 - [Libraries in C language](https://medium.com/@maxence0/libraries-in-c-language-1e95d84b673f?source=rss-c9aa093dee4c------2)
 - [C static libraries](https://medium.com/@maxence0/c-static-libraries-f9dbc30aa4ac?source=rss-c9aa093dee4c------2)
-- [Compilation step by step in C with GCC](https://medium.com/@maxence0/compilation-step-by-step-in-c-with-gcc-bc96aae9dfbe?source=rss-c9aa093dee4c------2)
 <!-- MEDIUM-STORY-LIST:END -->
