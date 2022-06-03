@@ -24,9 +24,9 @@
 
 ## **<div align="center">Latest Medium Stories</div>**
 <!-- MEDIUM-STORY-LIST:START -->
+- [How i fixed 500 internal error ?](https://medium.com/@maxence0/how-i-fixed-500-internal-error-f7f51f04526a?source=rss-c9aa093dee4c------2)
 - [What happens when you type an URL in your browser and press “Enter” ?](https://medium.com/@maxence0/what-happens-when-you-type-an-url-in-your-browser-and-press-enter-5c7430229d83?source=rss-c9aa093dee4c------2)
 - [What is IoT?](https://medium.com/@maxence0/what-is-iot-2732828a7d2a?source=rss-c9aa093dee4c------2)
 - [Recursive functions](https://medium.com/@maxence0/recursive-functions-296bdc02bb75?source=rss-c9aa093dee4c------2)
 - [Mutable vs Immutable Objects in Python](https://medium.com/@maxence0/mutable-vs-immutable-objects-in-python-89812783dcf9?source=rss-c9aa093dee4c------2)
-- [Libraries in C language](https://medium.com/@maxence0/libraries-in-c-language-1e95d84b673f?source=rss-c9aa093dee4c------2)
 <!-- MEDIUM-STORY-LIST:END -->
