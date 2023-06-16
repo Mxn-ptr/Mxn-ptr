@@ -1,6 +1,6 @@
 # <div align="center">**Hey 👋, Welcome to my GitHub !**</div>
 
-### <div align="center"> I'm Maxence, a student at [@HolbertonSchool](https://github.com/holbertonschool) in Paris, France. </div>
+### <div align="center"> I'm Maxence, Software Engineer at [@HolbertonSchool](https://github.com/holbertonschool) in Bordeaux, France. </div>
 
 <p align="center">
   <img width="450" height="200" src="https://github-readme-stats.vercel.app/api?username=Mxn-ptr&show_icons=true&bg_color=0C1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&include_all_commits=true&count_private=true&hide=prs,issues">
