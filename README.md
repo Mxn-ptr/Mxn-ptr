@@ -21,11 +21,11 @@
   </tr>
   <tr>
     <td align="center" width="60">💡</td>
-    <td><strong>Passion</strong>: Passionné par la conception logicielle, la résolution de défis techniques complexes et l'architecture backend.</td>
+    <td><strong>Passions</strong>: Passionné par la conception logicielle, la résolution de défis techniques complexes et l'architecture backend.</td>
   </tr>
   <tr>
     <td align="center" width="60">🔭</td>
-    <td><strong>Projets en cours</strong>: Développement d'une application de gestion de tâches avec <strong>Rust</strong>, <strong>React</strong> et gestion de bases de données <strong>MySQL</strong>.</td>
+    <td><strong>Projet en cours</strong>: Développement d'une application de gestion de tâches avec <strong>Rust</strong>, <strong>React</strong> et gestion de bases de données <strong>MySQL</strong>.</td>
   </tr>
   <tr>
     <td align="center" width="60">🌱</td>
