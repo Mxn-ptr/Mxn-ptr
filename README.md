@@ -1,49 +1,91 @@
-<h1 align="center">Salut 👋, je suis Maxence</h1>
+<h1 align="center">Salut, moi c'est Maxence 👋</h1>
 <h3 align="center">Développeur Web Junior passionné par le Backend</h3>
 
 <p align="center">
-  <a href="https://github.com/Mxn-ptr">
-    <img src="https://img.shields.io/github/followers/Mxn-ptr?label=Suivre&style=social" alt="GitHub Followers">
-  </a>
-  <a href="mailto:maxence0@hotmail.fr">
-    <img src="https://img.shields.io/badge/Email-Contact-blue" alt="Email">
-  </a>
-  <a href="[https://www.linkedin.com/in/ton-profil-linkedin](https://www.linkedin.com/in/maxence-potier/)">
-    <img src="https://img.shields.io/badge/LinkedIn-Profil-blue" alt="LinkedIn">
-  </a>
+  <a href="mailto:maxence0@hotmail.fr"><img src="https://skillicons.dev/icons?i=gmail" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/maxence-potier/"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin"/></a>
 </p>
 
----
+<hr>
 
-### 🧑‍💻 À propos de moi
-
-- 🔭 Je travaille sur plusieurs projets personnels pour renforcer mes compétences en **Rust**, **Java**, **React**, et **MySQL**.
-- 🌱 J'apprends activement de nouvelles technologies et pratiques de développement pour améliorer mes projets.
-- 💬 N'hésitez pas à me contacter pour discuter de collaborations ou d'opportunités professionnelles.
-
----
-
-### 🛠️ Compétences
-
-- **Langages** : Rust, JavaScript, TypeScript, HTML, CSS, Java, C, Python
-- **Frameworks & Bibliothèques** : Node.js, Express.js, React, Tailwind CSS
-- **Bases de données** : MySQL, PostgreSQL, SQLite
-- **Outils** : Git, GitHub, VS Code, Docker
-
----
-
-### 📈 Statistiques GitHub
+<h3 align="center">🧑‍💻 À propos de moi</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mxn-ptr&show_icons=true&theme=radical" alt="Statistiques GitHub de Maxence">
+  <em>Développeur passionné et curieux, diplômé de Holberton School en spécialisation Full-Stack, je m'investis dans la création de projets backend et le perfectionnement constant de mes compétences techniques.</em>
 </p>
 
----
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="60">🎓</td>
+    <td><strong>Formation</strong>: Diplômé de <strong>Holberton School</strong> avec une spécialisation en <strong>Full-Stack</strong>, titulaire du titre <strong>RNCP 6 Concepteur Développeur d'Applications</strong>.</td>
+  </tr>
+  <tr>
+    <td align="center" width="60">💡</td>
+    <td><strong>Passion</strong>: Passionné par la conception logicielle, la résolution de défis techniques complexes et l'architecture backend.</td>
+  </tr>
+  <tr>
+    <td align="center" width="60">🔭</td>
+    <td><strong>Projets en cours</strong>: Développement d'une application de gestion de tâches avec <strong>Rust</strong>, <strong>React</strong> et gestion de bases de données <strong>MySQL</strong>.</td>
+  </tr>
+  <tr>
+    <td align="center" width="60">🌱</td>
+    <td><strong>Actuellement en apprentissage</strong>: Exploration de l'architecture logicielle, des <strong>design patterns</strong> et de l'intégration de <strong>Docker</strong> pour des déploiements efficaces.</td>
+  </tr>
+  <tr>
+    <td align="center" width="60">🚀</td>
+    <td><strong>Motivation</strong>: Toujours avide d'apprendre de nouvelles technologies et de relever des défis stimulants.</td>
+  </tr>
+  <tr>
+    <td align="center" width="60">💬</td>
+    <td><strong>À propos de moi</strong>: Ouvert aux opportunités et collaborations intéressantes dans le domaine du développement logiciel.</td>
+  </tr>
+</table>
 
-### 📫 Me contacter
+<hr>
 
-- 📧 Email : [ton.email@example.com](mailto:ton.email@example.com)
-- 💼 LinkedIn : [linkedin.com/in/ton-profil-linkedin](https://www.linkedin.com/in/ton-profil-linkedin)
+<h3 align="center">💻 Compétences techniques</h3>
 
----
+<h4 align="center">Langages</h4>
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=rust,c,java,js,typescript,python" alt="Langages" /></a>
+</p>
 
+<h4 align="center">Frameworks</h4>
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwindcss" alt="Frameworks" /></a>
+</p>
+
+<h4 align="center">Bases de données</h4>
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb" alt="Bases de données" /></a>
+</p>
+
+<h4 align="center">Outils</h4>
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,docker,vscode" alt="Outils" /></a>
+</p>
+
+<hr>
+
+<h3 align="center">📚 Projets intéressants</h3>
+
+<div align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="10">
+  <tr>
+    <td width="100" align="center">
+      <a href="https://github.com/Mxn-ptr/motiv"><strong>Motiv'</strong></a>
+    </td>
+    <td>
+      Une application web permettant de trouver des partenaires pour pratiquer des sports ensemble et rejoindre des événements sportifs. Développée avec <strong>React Native</strong>, <strong>Node.js</strong>, <strong>Express</strong>.
+    </td>
+  </tr>
+  <tr>
+    <td width="100" align="center">
+      <a href="https://github.com/Mxn-ptr/Rust-API"><strong>Rust-API</strong></a>
+    </td>
+    <td>
+      Une API backend performante et sécurisée développée en <strong>Rust</strong> avec le framework <strong>Actix</strong>, conçue pour offrir une gestion rapide et efficace des données.
+    </td>
+  </tr>
+</table>
+</div>
