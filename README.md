@@ -47,12 +47,12 @@
 
 <h4 align="center">Langages</h4>
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=rust,c,java,js,typescript,python" alt="Langages" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=rust,c,java,js,typescript,cs,python" alt="Langages" /></a>
 </p>
 
 <h4 align="center">Frameworks</h4>
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwindcss" alt="Frameworks" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=actix,react,nodejs,express,tailwindcss,flask" alt="Frameworks" /></a>
 </p>
 
 <h4 align="center">Bases de données</h4>
@@ -62,7 +62,7 @@
 
 <h4 align="center">Outils</h4>
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,docker,vscode,github,figma" alt="Outils" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,git,docker,vscode,github,figma" alt="Outils" /></a>
 </p>
 
 <hr>
