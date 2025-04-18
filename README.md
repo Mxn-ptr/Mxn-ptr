@@ -84,7 +84,7 @@
       <a href="https://github.com/Mxn-ptr/Rust-API"><strong>Rust-API</strong></a>
     </td>
     <td>
-      Une API backend performante et sécurisée développée en <strong>Rust</strong> avec le framework <strong>Actix</strong>, conçue pour offrir une gestion rapide et efficace des données.
+      Une API backend performante et sécurisée développée en <strong>Rust</strong> avec le framework <strong>Actix</strong>, conçue pour offrir une gestion rapide et efficace des données. Déploiement via <strong>Docker</strong> pour une portabilité et une scalabilité optimales.
     </td>
   </tr>
 </table>
