@@ -11,7 +11,7 @@
 <h3 align="center">🧑‍💻 À propos de moi</h3>
 
 <p align="center">
-  <em>Développeur passionné et curieux, diplômé de Holberton School en spécialisation Full-Stack, je m'investis dans la création de projets backend et le perfectionnement constant de mes compétences techniques.</em>
+  <em>Développeur passionné et curieux, diplômé de Holberton School en spécialisation Full-Stack, je m'investis dans la création de projets backend et le perfectionnement constant de mes compétences techniques. Je suis aussi formateur technique pour Holberton School Bordeaux et aide les étudiants à intégrer les notions techniques importantes.</em>
 </p>
 
 <table align="center" border="0">
@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td align="center" width="60">🌱</td>
-    <td><strong>Actuellement en apprentissage</strong>: Exploration de l'architecture logicielle, des <strong>design patterns</strong> et de l'intégration de <strong>Docker</strong> pour des déploiements efficaces.</td>
+    <td><strong>En constante évolution</strong>: Exploration de l'architecture logicielle, des <strong>design patterns</strong> et de l'intégration de <strong>Docker</strong> pour des déploiements efficaces.</td>
   </tr>
   <tr>
     <td align="center" width="60">🚀</td>
