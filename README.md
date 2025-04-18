@@ -37,7 +37,7 @@
   </tr>
   <tr>
     <td align="center" width="60">💬</td>
-    <td><strong>À propos de moi</strong>: Ouvert aux opportunités et collaborations intéressantes dans le domaine du développement logiciel.</td>
+    <td><strong>À propos de moi</strong>: Ouvert aux opportunités et collaborations intéressantes dans le domaine du développement d'applications.</td>
   </tr>
 </table>
 
