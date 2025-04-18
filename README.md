@@ -62,12 +62,12 @@
 
 <h4 align="center">Outils</h4>
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,docker,vscode" alt="Outils" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,docker,vscode,github,figma" alt="Outils" /></a>
 </p>
 
 <hr>
 
-<h3 align="center">📚 Projets intéressants</h3>
+<h3 align="center">📚 Projets en avant</h3>
 
 <div align="center">
 <table align="center" border="0" cellspacing="0" cellpadding="10">
